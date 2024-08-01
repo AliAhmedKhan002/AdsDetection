@@ -6,7 +6,7 @@ Traning and infrence for ad dectection modules(Audio, video) using speechbrain a
 This repository contains a Ads Detection model capable of identifying specific Advertisement in audio and video recordings. It utilizes deep learning techniques to extract features and make predictions based on voice/frame samples.
 
 Installation
-1- Clone the repository:                             git clone https://github.com/AI-TEAM-R-D-Models/ad-detection-api.git
+1- Clone the repository:                             git clone https://github.com/AliAhmedKhan002/AdsDetection.git
 2- Navigate into the cloned directory:               cd ad-detection-api
 3- Install the required dependencies:                pip install -r req.txt
 
